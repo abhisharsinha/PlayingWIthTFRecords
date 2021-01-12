@@ -1,0 +1,2 @@
+Reading and Writing TFRecords has been very tedious task for me, each time I have to use it, I face numerous difficulties consuming a lot of time in just starting the data pipeline. 
+To solve all those issues I can creating this repository as a record of my journey of playing around with it, so that when I need to use it I can reuse some code from here.
